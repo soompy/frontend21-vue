@@ -56,12 +56,8 @@
         </a>
       </li>
       <li>
-        <a
-          href="http://vuex.vuejs.org/"
-          target="_blank"
-        >
-          vuex
-        </a>
+        <router-link to="/main">메인 </router-link>
+
       </li>
       <li>
         <a
